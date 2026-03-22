@@ -1,5 +1,3 @@
-# filtro-palavras-python
-Programa em Python que armazena palavras em uma lista e exibe apenas aquelas com um número específico de caracteres, utilizando estruturas de repetição e condicionais.
 # Filtro de Palavras em Python
 
 Projeto desenvolvido em Python com o objetivo de praticar lógica de programação e manipulação de listas.
